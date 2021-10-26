@@ -6,7 +6,6 @@ import './herosection.css';
 function Herosection() {
     return (
         <div className="hero-container">
-            <video src="D:\my front end examples complete\4th responsive webesite\my-app\src\img\video-2.mp4" autoPlay loop muted></video>
             <h1>Adventure Awaits</h1>
             <p>what are you waiting for</p>
             <div className="hero-btn">
